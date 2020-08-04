@@ -1,0 +1,23 @@
+ 
+ ________________________
+|score | first  | last   |
+|______|________|________|
+|100   | sarah  | popelka|
+|______|________|________|
+|95    | reed   | hyde   |
+|______|________|________|
+|93    | paolo  | ramos  |
+|______|________|________|
+
+
+
+csvreader= [  ['score','first','last'],
+        [100, 'sarah', 'popelka'],
+        [95, 'reed', 'hyde'],
+        [93, 'paolo', 'ramos']  ]
+
+row= csvreader[1] -----> [100,'sarah','popelka']
+
+row[1] -------> 'sarah'
+
+csvreader[1][1]  --------> 'sarah' (equivalent to Cells(1,1))

@@ -1,0 +1,8 @@
+* [01-Ins_Merging](https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-data-pt-06-2020-u-c/tree/master/01-Lesson-Plans/04-Pandas/3/Activities//01-Ins_Merging)
+* [02-Stu_Cryptocurrency](https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-data-pt-06-2020-u-c/tree/master/01-Lesson-Plans/04-Pandas/3/Activities//02-Stu_Cryptocurrency)
+* [03-Ins_Binning](https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-data-pt-06-2020-u-c/tree/master/01-Lesson-Plans/04-Pandas/3/Activities//03-Ins_Binning)
+* [04-Stu_TedTalks](https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-data-pt-06-2020-u-c/tree/master/01-Lesson-Plans/04-Pandas/3/Activities//04-Stu_TedTalks)
+* [05-Ins_Mapping](https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-data-pt-06-2020-u-c/tree/master/01-Lesson-Plans/04-Pandas/3/Activities//05-Ins_Mapping)
+* [06-Stu_CleaningKickstarter](https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-data-pt-06-2020-u-c/tree/master/01-Lesson-Plans/04-Pandas/3/Activities//06-Stu_CleaningKickstarter)
+* [07-Ins_IntroToBugfixing](https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-data-pt-06-2020-u-c/tree/master/01-Lesson-Plans/04-Pandas/3/Activities//07-Ins_IntroToBugfixing)
+* [08-Stu_BugfixingBonanza](https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-data-pt-06-2020-u-c/tree/master/01-Lesson-Plans/04-Pandas/3/Activities//08-Stu_BugfixingBonanza)

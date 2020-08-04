@@ -1,0 +1,31 @@
+Terminal Navigation
+
+`cd Desktop` will change to the desktop directory
+
+`mkdir PythonStuff` will make a new directory/folder on the desktop.
+
+`cd PythonStuff` will move to the newly created folder
+
+`open .` on a Mac or `explorer .` in PC will open the current folder
+
+`touch first_file.py` will create a file in terminal or git bash
+
+`echo '' -> second_file.py` will create an empty file in anaconda prompt
+
+`ls` will show what in the current directory
+
+`cd ..` will move us up a director back to Desktop
+
+
+Retrieving Master Copies from GitHub or Git Lab
+
+`git pull` will allow us to download class content
+
+
+Adding Your Working Files to GitHub
+
+`git add .` will allow git to recognize the changes that we've made to the repository files
+
+`git commit -m "commit message"` creates a "checkpoint" representing the changes you just prepared, with a message describing the changes you've made
+
+`git push` will send our local changes (on our computer) to the GitHub website
